@@ -1,0 +1,1 @@
+mongosh "mongodb://scmongocluster-shard-00-00.gfafb.mongodb.net:27017,scmongocluster-shard-00-01.gfafb.mongodb.net:27017,scmongocluster-shard-00-02.gfafb.mongodb.net:27017/myFirstDatabase?replicaSet=atlas-gb0yqq-shard-0" --ssl --authenticationDatabase admin --username appuser --password appuser123
